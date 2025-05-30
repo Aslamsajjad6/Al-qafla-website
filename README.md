@@ -1,27 +1,10 @@
-# Alہیں۔ اب اگلا قدم یہ ہوگا کہ ہم:
 
 
----
 
-✅ ایک آسان "Demo Website" بنائیں
 
-جس میں ہوں:
 
-1. آپ 
 
-1. GitHub پر نیا Repository بنائیں:
 
-GitHub کھولیں
-
-"New Repository" پر کلک کریں
-
-Repository کا نام دیں (مثلاً: alqafla-website)
-
-"Public" رکھیں اور "Add
-
-GitHub سے اپنا نیا repository منتخب کریں
-
-Vercel خودکار طریقے سے ویب سائٹ کو ڈیپلائے 
 
 <!DOCTYPE html>
 <html lang="ur">
